@@ -12,7 +12,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
 ```
-추가
+추가<br/>
 2. 그래도 오류가 나네?
 - Preferences - Compiler - Java Compiler에서 `Target bytecode version`을 1.8로 수정
   - Maven으로 빌드할 때 pom에 있는 정보를 참조하긴 하나 intelliJ로 빌드할 때는 프로그램에 설정되어 있는 정보로 빌드하기 때문에 빌드를 어떻게 하느냐에 따라 다를 수 있다.
