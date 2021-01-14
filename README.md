@@ -44,3 +44,5 @@
 
         <spring.version>4.2.0.RELEASE</spring.version>
 ```
+![screenshot](img/step02.png)
+- properties 안에 추가해주고 나니 잘 됨.
